@@ -21,7 +21,7 @@
 </div>
 <div align="justify">
     <h2>☆</h2>
-    <img src="Captura de tela 2023-09-03 201523.png" height="300"/>
-    <img src="Captura de tela 2023-09-03 201608.png" height="300"/>
-    <img src="Captura de tela 2023-09-03 201617.png" height="300"/>
+    <img src="Captura de tela 2023-09-03 201523.png" height="250"/>
+    <img src="Captura de tela 2023-09-03 201608.png" height="250"/>
+    <img src="Captura de tela 2023-09-03 201617.png" height="250"/>
 </div>
