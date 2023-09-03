@@ -21,5 +21,7 @@
 </div>
 <div align="justify">
     <h2>☆</h2>
-    <img src="https://user-images.githubusercontent.com/102476175/201752620-8e4b5ea9-ab51-4cdd-9b11-d8ff07acfc0a.png" height="400"/>
+    <img src="Captura de tela 2023-09-03 201523.png" height="300"/>
+    <img src="Captura de tela 2023-09-03 201608.png" height="300"/>
+    <img src="Captura de tela 2023-09-03 201617.png" height="300"/>
 </div>
